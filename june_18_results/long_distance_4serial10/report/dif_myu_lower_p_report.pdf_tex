@@ -1,0 +1,103 @@
+%% Creator: Inkscape inkscape 0.92.3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'dif_myu_lower_p_report.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{576bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.75)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{dif_myu_lower_p_report.pdf}}%
+    \put(0.16022727,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{dif_myu_lower_p_report.pdf}}%
+    \put(0.25813521,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}250\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{dif_myu_lower_p_report.pdf}}%
+    \put(0.35604313,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{dif_myu_lower_p_report.pdf}}%
+    \put(0.45395104,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}750\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{dif_myu_lower_p_report.pdf}}%
+    \put(0.55185901,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{dif_myu_lower_p_report.pdf}}%
+    \put(0.64976692,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1250\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{dif_myu_lower_p_report.pdf}}%
+    \put(0.74767484,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{dif_myu_lower_p_report.pdf}}%
+    \put(0.84558275,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1750\end{tabular}}}}%
+    \put(0.51250002,0.02813207){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Iteration\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.10215415){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−20000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.16777913){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−17500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.23340416){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−15000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.29902914){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−12500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.36465414){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−10000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.43027912){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−7500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.49590413){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−5000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.56152913){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−2500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{dif_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.62715414){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.03039389,0.37125){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\partial \mathcal{L}/ \partial \mu^{\underline{P}}_{m}\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{dif_myu_lower_p_report.pdf}}%
+    \put(0.51250002,0.67041667){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\partial \mathcal{L}/ \partial \mu^{\underline{P}}_{m}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{dif_myu_lower_p_report.pdf}}%
+    \put(0.18923611,0.18011554){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\partial \mathcal{L}/ \partial \mu^{\underline{P}}_{1}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{dif_myu_lower_p_report.pdf}}%
+    \put(0.18923611,0.15414985){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\partial \mathcal{L}/ \partial \mu^{\underline{P}}_{2}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{dif_myu_lower_p_report.pdf}}%
+    \put(0.18923611,0.12818416){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\partial \mathcal{L}/ \partial \mu^{\underline{P}}_{3}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{dif_myu_lower_p_report.pdf}}%
+    \put(0.18923611,0.10221842){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\partial \mathcal{L}/ \partial \mu^{\underline{P}}_{4}\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
