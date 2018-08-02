@@ -1,0 +1,117 @@
+%% Creator: Inkscape inkscape 0.92.3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'lossless_6_meshed_dif_myu_report.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{581.85484009bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.74245322)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.16867738,0.05658038){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.30017361,0.05658038){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.43166987,0.05658038){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.5631661,0.05658038){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}1500\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.69466233,0.05658038){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.82615856,0.05658038){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2500\end{tabular}}}}%
+    \put(0.51740543,0.02784899){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Iteration\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.10112624){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−2000000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.16607272){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−1750000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.23101916){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−1500000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.29596565){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−1250000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.36091214){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−1000000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.42585863){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−750000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.49080511){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−500000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.55575159){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}−250000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.12177408,0.62069808){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.01828071,0.36751434){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\partial \mathcal{L}/ \partial \mu_{mn}[A]$\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.43534753){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{12}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.40964309){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{16}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.38393865){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{21}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.35823421){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{23}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.33252979){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{26}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.30682535){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{32}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.28112091){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{34}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.2554165){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{43}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.22971203){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{45}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.20400762){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{54}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.17830315){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{56}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.15259874){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{61}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.12689432){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{62}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{lossless_6_meshed_dif_myu_report.pdf}}%
+    \put(0.19739432,0.10118986){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\partial \mathcal{L}/ \partial \mu_{65}$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
