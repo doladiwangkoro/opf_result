@@ -1,0 +1,105 @@
+%% Creator: Inkscape inkscape 0.92.3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'exact_9_ieee_no_congestion_myu_lower_p_report.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{576bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.75)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.16022727,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.25417919,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}2000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.34813113,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}4000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.44208304,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}6000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.53603495,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}8000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62998687,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}10000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.72393878,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}12000\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.8178907,0.0571555){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}14000\end{tabular}}}}%
+    \put(0.51250002,0.02813207){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Iteration\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.10215415){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.20734602){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}5\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.31253788){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}10\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.41772975){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}15\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.52292162){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}20\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.11284722,0.62811348){\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}25\end{tabular}}}}%
+    \put(0.07807998,0.37125){\rotatebox{90}{\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu^{\underline{P}}_{m}[m.u/W]$\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.63118327){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{1}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.60521756){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{2}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.57925185){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{3}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.55328613){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{4}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.52732041){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{5}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.50135472){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{6}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.475389){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{7}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.44942329){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{8}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{exact_9_ieee_no_congestion_myu_lower_p_report.pdf}}%
+    \put(0.62947591,0.42345757){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu^{\underline{P}}_{9}$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
